@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> df6a5f23d11c1684a804ef0cfc3377b49ded24c7
 .green
 {
-background:green;
+background:grey;
 }
 
 .white
@@ -17,7 +20,8 @@ background:orange;
 
 .header
 {
-min-height:200px;
+
+height:auto;
 }
 
 
