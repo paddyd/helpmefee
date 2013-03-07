@@ -1,12 +1,4 @@
-#one
-{
-background:white;
-}
 
-#row1
-{
-background:purple;
-}
 
 .green
 {
@@ -14,7 +6,7 @@ background:green;
 }
 
 .white
-{
+{	
 background:white;
 }
 
@@ -27,4 +19,5 @@ background:orange;
 {
 min-height:200px;
 }
+
 
